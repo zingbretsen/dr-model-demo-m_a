@@ -1,0 +1,10 @@
+user_provided_model_id: zingbretsen/M_A_model
+target_type: Binary
+settings:
+  name: GitHub Merger & Acquisition Model 1 [GitHub CI/CD]
+  target_name: target_binary
+
+version:
+  # Make sure this is the environment ID is in your system.
+  # This one is the '[DataRobot] Python 3 Scikit-Learn Drop-In' environment
+  model_environment_id: 5e8c889607389fe0f466c72d
