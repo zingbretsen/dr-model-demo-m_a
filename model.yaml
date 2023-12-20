@@ -1,7 +1,7 @@
 user_provided_model_id: zingbretsen/M_A_model
 target_type: Binary
-negative_class_name: "FALSE"
-positive_class_name: "TRUE"
+# negative_class_name: "FALSE"
+# positive_class_name: "TRUE"
 settings:
   name: GitHub Merger & Acquisition Model 1 [GitHub CI/CD]
   target_name: target_binary
